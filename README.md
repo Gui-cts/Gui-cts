@@ -7,8 +7,8 @@
 
 <div>
     <a href="https://github.com/Gui-cts">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-cts&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-cts&layout=compact&langs_count=16&theme=shadow_red"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gui-cts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gui-cts&layout=compact&langs_count=16&theme=dark"/>
     </a>
 </div>
 
